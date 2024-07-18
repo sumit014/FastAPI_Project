@@ -1,0 +1,7 @@
+fastapi        # FastAPI web framework
+uvicorn        # ASGI server implementation
+matplotlib     # Data visualization library
+pandas         # Data manipulation library
+pytest         # Testing framework
+pydantic       # Data validation using Python type hints
+requests       # Dependency to run pytest
